@@ -21,10 +21,10 @@ a{
 }
  .banner{
 
-        background-image:url("../banner-bg.png");
+        background-image:url=("../banner-bg.png");
         background-size: cover;
         background-position: center;
-        background-repeat: no repeat;
+        background-repeat: no-repeat;
         height: 90vh;
         text-align: center;
     }
